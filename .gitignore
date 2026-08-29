@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+
+# Secrets
+.env
+email_config.json
+
+# Runtime state
+state.json
+
+# Generated data
+logs/
+photos/
+timelapses/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/editor
+.DS_Store
+Thumbs.db

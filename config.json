@@ -1,0 +1,18 @@
+{
+  "log_interval_seconds": 60,
+  "photo_interval_seconds": 600,
+  "photo_retention_hours": 24,
+  "log_retention_days": 7,
+
+  "pump_flow_ml_per_second": 12.8,
+  "tank_capacity_ml": 840,
+  "water_warning_threshold_ml": 250,
+  "water_stop_threshold_ml": 100,
+
+  "watering_enabled": true,
+  "watering_initial_seconds": 2.5,
+  "watering_check_delay_seconds": 3600,
+  "watering_check_interval_seconds": 21600,
+  "watering_max_cycles": 3,
+  "pump_gpio": 27
+}
