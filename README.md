@@ -61,11 +61,6 @@ The repository contains the main controller together with calibration, logging, 
 
 The current structure reflects the final working prototype rather than a later refactor performed only for presentation.
 
-## Prototype
-
-## Prototype
-
-The system was built and tested as a complete physical prototype.
 
 ## Prototype
 
@@ -76,9 +71,7 @@ The system was built and tested as a complete physical prototype.
 </p>
 
 <p align="center">
-  <img src="lcd.jpg" width="300">
-  &nbsp;&nbsp;
-  <img src="plant.jpg" width="300">
+  <img src="lcd.jpg" width="260">
 </p>
 
 <p align="center">
