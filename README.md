@@ -25,7 +25,7 @@ The project was built as a complete hardware-software prototype, combining senso
 
 ## Software
 
-**Python · GPIO/gpiod · I2C · Adafruit CircuitPython · Pillow · FFmpeg · systemd**
+**Python · GPIO · I2C · Adafruit CircuitPython · Pillow · FFmpeg · systemd**
 
 Main application:
 
