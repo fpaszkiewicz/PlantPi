@@ -67,15 +67,20 @@ The current structure reflects the final working prototype rather than a later r
 
 The system was built and tested as a complete physical prototype.
 
+## Prototype
+
+The system was built and tested as a complete physical prototype.
+
 <p align="center">
-  <img src="system.jpg" width="47%">
-  <img src="lcd.jpg" width="47%">
+  <img src="system.jpg" width="650">
 </p>
 
 <p align="center">
-  <img src="plant.jpg" width="47%">
+  <img src="lcd.jpg" width="300">
+  &nbsp;&nbsp;
+  <img src="plant.jpg" width="300">
 </p>
 
 <p align="center">
-  <a href="lcd_interface_demo.mp4">Watch LCD interface demo</a>
+  <a href="lcdMenuDemo.mp4">▶ LCD interface demonstration</a>
 </p>
