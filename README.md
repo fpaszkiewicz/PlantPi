@@ -60,3 +60,17 @@ The software was developed iteratively alongside the hardware prototype.
 The repository contains the main controller together with calibration, logging, testing and automation scripts used during development.
 
 The current structure reflects the final working prototype rather than a later refactor performed only for presentation.
+
+## Prototype
+
+The system was built and tested as a complete physical prototype.
+
+<p align="center">
+  <img src="docs/images/system.jpg" width="47%">
+  <img src="docs/images/lcd.jpg" width="47%">
+</p>
+
+<p align="center">
+  <img src="docs/images/plant.jpg" width="47%">
+  <img src="docs/images/pump_control.jpg" width="47%">
+</p>
