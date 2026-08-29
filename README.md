@@ -52,3 +52,11 @@ test_*.py                Hardware and subsystem tests
 Soil moisture was calibrated experimentally from multi-day raw voltage measurements. The watering algorithm uses separate dry and wet thresholds and delayed measurements after each pump cycle to account for water distribution through the soil and the sensor's response time.
 
 Generated data, photographs, videos, runtime state and credentials are excluded from the repository.
+
+## Code Notes
+
+The software was developed iteratively alongside the hardware prototype.
+
+The repository contains the main controller together with calibration, logging, testing and automation scripts used during development.
+
+The current structure reflects the final working prototype rather than a later refactor performed only for presentation.
